@@ -25,15 +25,12 @@
 
 
 #### ~ 倉庫管理員娜塔莎小姐的今日推薦活動 ~  
-
-- 音樂：[YOASOBI 夜に駆ける on bilibili](https://www.bilibili.com/video/BV1Ph411C7S5)
-- 閱讀：[在 萌娘百科 摸鱼浏览新番、漫画与新梗](https://zh.moegirl.org.cn/Mainpage)
-- 美食：[來學做玉子燒吧！](https://zhuanlan.zhihu.com/p/25617766)
-- [長駐] [從 arXiv 獲取今日數理科學動態](https://arxiv.org)
+- :headphones: 音樂：[YOASOBI 夜に駆ける on bilibili](https://www.bilibili.com/video/BV1Ph411C7S5)
+- :books: 閱讀：[在 萌娘百科 摸鱼浏览新番、漫画与新梗](https://zh.moegirl.org.cn/Mainpage)
+- :cookie: 美食：[來學做玉子燒吧！](https://zhuanlan.zhihu.com/p/25617766)
+- :postbox: [長駐] [從 arXiv 獲取今日數理科學動態](https://arxiv.org)
 
 好的。如果您沒有其他事情的話，恕我先失陪了~
-
-### ...且慢！
 
 啊啊，對了，剛才是忘記了。那麼，如果是初次見面——很高興認識您。<br>
 
